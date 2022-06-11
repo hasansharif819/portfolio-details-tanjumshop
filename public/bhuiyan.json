@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Tanjums Shop Home",
+        "bullet1": "React.js",
+        "bullet2": "React Bootstrap",
+        "bullet3": "navbar",
+        "img": "https://i.ibb.co/CW9XjXF/tanjum1.png"
+    },
+    {
+        "id": 2,
+        "name": "Tanjums Shop Sharee",
+        "bullet1": "Using bootstrap card",
+        "bullet2": "Responsive",
+        "bullet3": "Using dynamic route",
+        "img": "https://i.ibb.co/8PG5NVp/tanjum3.png"
+    },
+    {
+        "id": 3,
+        "name": "Tanjums Shop",
+        "bullet1": "Buy now button",
+        "bullet2": "Add to cart button",
+        "bullet3": "Front end website",
+        "img": "https://i.ibb.co/yR3Gx4D/tanjum4.png"
+    }
+]
